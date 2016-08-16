@@ -59,11 +59,8 @@ Responce of the request
 ````
 
 
-#### Solution 1
-[Anagram](https://github.com/vgvinay2/cialfo_app/wiki/program1.rb)
-
 #### Solution 2
-https://github.com/vgvinay2/rest_api/wiki/Solution2
+https://github.com/vgvinay2/rest_api/wiki/Solution22
 
 #### Solution 3
 https://github.com/vgvinay2/rest_api/wiki/Solution3
